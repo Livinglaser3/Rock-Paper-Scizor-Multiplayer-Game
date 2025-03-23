@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-rpswar-dev-675a5-authRole",
+      "UnauthRoleArn": "arn:aws:iam::975050110676:role/amplify-rpswar-dev-675a5-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::975050110676:role/amplify-rpswar-dev-675a5-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-rpswar-dev-675a5-deployment",
+      "UnauthRoleName": "amplify-rpswar-dev-675a5-unauthRole",
+      "StackName": "amplify-rpswar-dev-675a5",
+      "StackId": "arn:aws:cloudformation:us-west-2:975050110676:stack/amplify-rpswar-dev-675a5/92bb8120-0708-11f0-af37-0a12f9b52e85",
+      "AmplifyAppId": "d3tfkzq2129ony"
+    },
+    "categories": {
+      "auth": {
+        "rpswar87c2151f": {}
+      }
+    }
+  }
+}
